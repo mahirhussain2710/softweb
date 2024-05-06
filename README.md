@@ -913,9 +913,9 @@ contact.html
 </html>
 ```
 ## OUTPUT:
-![alt text](mahir/softapp/1.png)
-![alt text](mahir/softapp/2.png)
-![alt text](mahir/softapp/3.png)
-![alt text](mahir/softapp/4.png)
+![alt text](mahir/1.png)
+![alt text](mahir/2.png)
+![alt text](mahir/3.png)
+![alt text](mahir/4.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
